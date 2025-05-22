@@ -1,2 +1,5 @@
 #deps:
 #  - rhobandeps/libzmq
+
+requirements:
+   - bash scripts/requirements.txt
